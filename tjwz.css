@@ -1,0 +1,10 @@
+.tjwz{ background:url("tjwz.png") top left no-repeat; width: 16px; display: inline-block; }
+.dt{ width:16px; height:16px; background-position:-10px -10px; }
+.guang{ width:16px; height:16px; background-position:-10px -36px; }
+.mgj{ width:16px; height:16px; background-position:-10px -62px; }
+.lsk{ width:16px; height:16px; background-position:-10px -88px; }
+.zmw{ width:16px; height:16px; background-position:-10px -114px; }
+.mls{ width:16px; height:16px; background-position:-10px -140px; }
+ul{ width: 200px; list-style: none;}
+ul li{ float: left; width: 100px;}
+
